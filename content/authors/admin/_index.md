@@ -82,7 +82,7 @@ Zhichao Liu(刘志超) is a 3rd year PhD candidate in Electrical and Computer En
 
 He received an M.S. degree in Systems Engineering from the [University of Pennsylvania](https://www.ese.upenn.edu/) in 2018 where I was involved in the research at the [Kod Lab](https://kodlab.seas.upenn.edu/) advised by [Dr. Feifei Qian](https://viterbi.usc.edu/directory/faculty/Qian/Feifei). He obtained his B.Eng. degree in Measurement and Control from the [Beijing University of Posts and Telecommunications](https://english.bupt.edu.cn/) Beijing, China in 2014.
 
-*Please reach out to me by`zliu157@ucr.edu`*
+*Please reach out to me with `zliu157@ucr.edu`*
 
 <!--{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resume{{< /staticref >}}.-->
 

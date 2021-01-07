@@ -37,11 +37,11 @@ featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-#links:
-# - name: Video
-#   url: https://youtu.be/ODP1pAMLJpE
-#   icon_pack: 
-#   icon: 
+links:
+ - name: Video
+   url: https://youtu.be/ODP1pAMLJpE
+   icon_pack: 
+   icon: 
 
 url_pdf: media/sorx.pdf
 url_code:
@@ -50,7 +50,7 @@ url_poster:
 url_project:
 url_slides:
 url_source:
-url_video: "https://youtu.be/ODP1pAMLJpE"
+url_video: 
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

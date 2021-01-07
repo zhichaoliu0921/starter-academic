@@ -49,13 +49,17 @@ links:
    url: publication/sorx/
    icon_pack: 
    icon: 
+ - icon_pack:
+   icon: 
+   name: Video
+   url: https://youtu.be/uqIFQDbos2A
 
 # Optional filename of your slides within your event's folder or a URL.
 url_slides: icra20_sorx.pdf
 
 url_code:
 url_pdf:
-url_video: "https://youtu.be/uqIFQDbos2A"
+url_video: 
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.

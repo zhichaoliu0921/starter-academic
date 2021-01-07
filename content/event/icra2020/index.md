@@ -55,7 +55,7 @@ url_slides: icra20_sorx.pdf
 
 url_code:
 url_pdf:
-url_video: https://youtu.be/uqIFQDbos2A
+url_video: "https://youtu.be/uqIFQDbos2A"
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.

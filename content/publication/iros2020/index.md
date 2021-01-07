@@ -39,6 +39,7 @@ links:
    icon_pack: 
    icon: 
 
+
 url_pdf: media/iros2020.pdf
 url_code:
 url_dataset:
@@ -46,7 +47,7 @@ url_poster:
 url_project:
 url_slides:
 url_source: 
-url_video: https://youtu.be/S3oYebJRfA0
+url_video: "https://youtu.be/S3oYebJRfA0"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

@@ -37,11 +37,11 @@ featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-#links:
-# - name: Video
-#   url: 
-#   icon_pack: 
-#   icon: 
+links:
+ - name: Video
+   url: https://youtu.be/ODP1pAMLJpE
+   icon_pack: 
+   icon: 
 
 url_pdf: media/sorx.pdf
 url_code:

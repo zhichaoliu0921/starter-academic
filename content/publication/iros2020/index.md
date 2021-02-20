@@ -7,7 +7,7 @@ authors:
 - admin
 - K. Karydis
 date: 2020-10-30T22:15:32-08:00
-doi: ""
+doi: "10.1109/IROS45743.2020.9341449"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-01-04T22:15:32-08:00

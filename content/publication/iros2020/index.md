@@ -20,7 +20,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "2020 IEEE/RSJ International Conference on Intelligent Robots and Systems"
-publication_short: "IROS (In press)"
+publication_short: "IROS"
 
 abstract: "Collision avoidance in unknown obstacle-cluttered environments may not always be feasible. In this work we focus on an emerging paradigm shift in which potential collisions with the environment can be harnessed instead of being avoided altogether. To this end, we introduced a new sampling-based online planning algorithm that can explicitly handle the risk of colliding with the environment and can switch between collision avoidance and collision exploitation. Central to the planner's capabilities is a novel joint optimization function that evaluates the effect of possible collisions using a reflection model. This way, the planner can make deliberate decisions to collide with the environment if such collision is expected to help the robot make progress toward its goal. To make the algorithm online, we presented a state expansion pruning technique that significantly reduces the search space while ensuring completeness. The proposed algorithm was evaluated experimentally with a built-in-house holonomic wheeled robot that can withstand collisions. We performed an extensive parametric study to investigate trade-offs between (user-tuned) levels of risk, deliberate collision decision making, and trajectory statistics such as time to reach the goal and path length."
 

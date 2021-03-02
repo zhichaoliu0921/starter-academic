@@ -13,6 +13,8 @@ design:
 
 `2021:`
 
+- Feb 28     One [paper](publication/arq/) accepted to ICRA 2021.
+
 ------
 
 `2020:`

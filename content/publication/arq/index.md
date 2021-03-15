@@ -26,7 +26,8 @@ abstract: "Collision detection and recovery for aerial robots remain a challenge
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
+tags: 
+- Aerial and Field Robotics 
 categories: []
 featured: false
 

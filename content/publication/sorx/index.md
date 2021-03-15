@@ -4,7 +4,7 @@
 title: "SoRX: A Soft Pneumatic Hexapedal Robot to Traverse Rough, Steep, and Unstable Terrain"
 
 authors:
-- admin
+- admin 
 - Z. Lu
 - K. Karydis
 
@@ -31,7 +31,9 @@ The motion capabilities of SoRX are evaluated through five experiments: running,
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
+tags: 
+- Soft Robotics
+- Legged Robots
 categories: []
 featured: false
 

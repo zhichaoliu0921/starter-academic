@@ -21,7 +21,7 @@ publication_types: ["0"]
 publication: ""
 publication_short: "Under Review"
 
-abstract: "oft pneumatic legged robots offer promise in their ability
+abstract: "Soft pneumatic legged robots offer promise in their ability
 to navigate over a range of different types of terrain,
 including natural unstructured terrain met in applications
 like precision agriculture. They can adapt their body

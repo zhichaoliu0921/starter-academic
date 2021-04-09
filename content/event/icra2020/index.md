@@ -1,10 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: " 2020 International Conference on Robotics and Automation"
+title: "2020 International Conference on Robotics and Automation"
 event: ICRA 2020
 event_url: https://www.icra2020.org/
-location: Virtual Conference
+location: Paris, France (Virtual)
 address:
   street:
   city:

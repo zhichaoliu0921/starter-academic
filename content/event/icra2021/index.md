@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 International Conference on Robotics and Automation"
+title: "2021 IEEE International Conference on Robotics and Automation"
 event: ICRA 2021
 event_url: http://www.icra2021.org/
 location: Xi'an, China (Virtual)

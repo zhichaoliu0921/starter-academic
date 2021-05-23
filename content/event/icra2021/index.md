@@ -49,7 +49,7 @@ links:
    icon: 
 
 # Optional filename of your slides within your event's folder or a URL.
-url_slides:
+url_slides: ICRA21_ARQ.pdf
 
 url_code:
 url_pdf:

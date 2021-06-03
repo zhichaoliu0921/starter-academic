@@ -13,6 +13,9 @@ design:
 
 `2021:`
 
+
+
+- Jun 1      Gave a [talk](talk/2021-ieee-international-conference-on-robotics-and-automation/) virtually on ICRA 2021. [Slide](talk/2021-ieee-international-conference-on-robotics-and-automation/ICRA21_ARQ.pdf). 
 - Feb 28     One [paper](publication/arq/) accepted to ICRA 2021.
 
 ------
@@ -23,7 +26,7 @@ design:
 
 - Jun 8       Defended the oral qualifying exam, advanced to candidacy.   
 
-- Jun 1      Gave a [talk](talk/2020-international-conference-on-robotics-and-automation/) virtually on ICRA 2020. [Slide](talk/2020-international-conference-on-robotics-and-automation/icra20_sorx.pdf). 
+- Jun 1      Gave a [talk](talk/2020-ieee-international-conference-on-robotics-and-automation/) virtually on ICRA 2020. [Slide](talk/2020-ieee-international-conference-on-robotics-and-automation/icra20_sorx.pdf). 
 
 - Mar 23   UCR News published an [article](https://news.ucr.edu/articles/2020/03/13/making-soft-robots-work-harder) on our recent work.
 

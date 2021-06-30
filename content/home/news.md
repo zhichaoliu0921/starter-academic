@@ -15,8 +15,9 @@ design:
 
 
 
-- Jun 1      Gave a [talk](talk/2021-ieee-international-conference-on-robotics-and-automation/) virtually on ICRA 2021. [Slide](talk/2021-ieee-international-conference-on-robotics-and-automation/ICRA21_ARQ.pdf). 
-- Feb 28     One [paper](publication/arq/) accepted to ICRA 2021.
+- Jun 30     Two papers ([Soft Pneumatic Walker](publication/zliu2021iros/) , [Resilient Mobile Robot](publication/zlu2021iros/)) accepted to IROS 2021.
+- Jun 1       Gave a [talk](talk/2021-ieee-international-conference-on-robotics-and-automation/) virtually on ICRA 2021. [Slide](talk/2021-ieee-international-conference-on-robotics-and-automation/ICRA21_ARQ.pdf). 
+- Feb 28    One [paper](publication/arq/) accepted to ICRA 2021.
 
 ------
 

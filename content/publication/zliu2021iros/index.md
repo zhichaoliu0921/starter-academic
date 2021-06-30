@@ -15,11 +15,11 @@ publishDate: 2021-03-14T22:59:53-07:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: "Under Review"
+publication: "2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
+publication_short: "2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
 
 abstract: "Soft pneumatic legged robots offer promise in their ability
 to navigate over a range of different types of terrain,

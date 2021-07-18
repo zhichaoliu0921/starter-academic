@@ -78,7 +78,7 @@ email: ""
 highlight_name: false
 ---
 
-Zhichao Liu(刘志超) is a 3rd year PhD candidate in Electrical and Computer Engineering at the [University of California, Riverside](https://www.ece.ucr.edu/). Currently he is a member of the [ARCS Lab](https://sites.google.com/view/arcs-lab/) advised by [Dr. Konstantinos Karydis](https://sites.google.com/view/arcs-lab/people). His research interests generally lie in the novel robot-environment  interactions. To be specific, his research tries to incorporate  compliance to the existing robotic platforms or design novel soft ones  to achieve better performance for robots’ interactions with the  environment. 
+Zhichao Liu(刘志超) is a PhD candidate in Electrical and Computer Engineering at the [University of California, Riverside](https://www.ece.ucr.edu/). Currently he is a member of the [ARCS Lab](https://sites.google.com/view/arcs-lab/) advised by [Dr. Konstantinos Karydis](https://sites.google.com/view/arcs-lab/people). His research interests generally lie in the novel robot-environment  interactions. To be specific, his research tries to incorporate  compliance to the existing robotic platforms or design novel soft ones  to achieve better performance for robots’ interactions with the  environment. 
 
 He received an M.S. degree in Systems Engineering from the [University of Pennsylvania](https://www.ese.upenn.edu/) in 2018 where he was involved in the research at the [Kod Lab](https://kodlab.seas.upenn.edu/) advised by [Dr. Feifei Qian](https://viterbi.usc.edu/directory/faculty/Qian/Feifei). He obtained his B.Eng. degree in Measurement and Control from the [Beijing University of Posts and Telecommunications](https://english.bupt.edu.cn/) Beijing, China in 2014.
 

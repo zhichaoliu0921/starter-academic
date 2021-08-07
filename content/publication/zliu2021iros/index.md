@@ -21,23 +21,7 @@ publication_types: ["1"]
 publication: "2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
 publication_short: "2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
 
-abstract: "Soft pneumatic legged robots offer promise in their ability
-to navigate over a range of different types of terrain,
-including natural unstructured terrain met in applications
-like precision agriculture. They can adapt their body
-morphology to the intricacies of the terrain at hand, thus
-enabling robust and resilient locomotion. This paper
-capitalizes on recent developments on soft pneumatic legged
-robots to introduce a closed-loop trajectory tracking
-control scheme with an eye to enabling autonomous
-navigation for such robots. Closed-loop pneumatic actuation
-feedback is made possible by introducing a compact and
-mobile pneumatic regulation board. Experimental results
-reveal that our soft legged robot can precisely control its
-body height and orientation while in quasi-static operation
-based on a geometric model. The robot can also track both
-straight line and curved trajectories as well as
-variable-height trajectories. "
+abstract: "    Soft pneumatic legged robots show promise in their ability to traverse a range of different types of terrain, including natural unstructured terrain met in applications like precision agriculture. They can adapt their body morphology to the intricacies of the terrain at hand, thus enabling robust and resilient locomotion. In this paper we capitalize upon recent developments on soft pneumatic legged robots to introduce a closed-loop trajectory tracking control scheme for operation over flat ground. Closed-loop pneumatic actuation feedback is achieved via a compact and portable pneumatic regulation board. Experimental results reveal that our soft legged robot can precisely control its body height and orientation while in quasi-static operation based on a geometric model. The robot can track both straight line and curved trajectories as well as variable-height trajectories. This work lays the basis to enable autonomous navigation for soft legged robots. "
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -56,7 +40,13 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+links:
+ - name: arXiv
+   url: https://arxiv.org/abs/2108.01338
+   icon_pack: 
+   icon: 
+
+url_pdf: media/zliu2021.pdf
 url_code:
 url_dataset:
 url_poster:

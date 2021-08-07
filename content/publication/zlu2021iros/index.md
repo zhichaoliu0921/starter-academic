@@ -22,29 +22,7 @@ publication_types: ["1"]
 publication: "2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
 publication_short: "2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
 
-abstract: "The paper focuses on collision-inclusive motion planning
-for impact-resilient mobile robots. We propose a new
-deformation recovery and replanning strategy to handle
-collisions that may occur at run-time. Contrary to
-collision avoidance methods that generate trajectories only
-in conservative local space or require collision checking
-that has high computational cost, our method directly
-generates (local) trajectories with imposing only waypoint
-constraints. If a collision occurs, our method then
-estimates the post-impact state and computes from there an
-intermediate waypoint to recover from the collision. To
-achieve so, we develop two novel components: 1) a
-deformation recovery controller that optimizes the robot's
-states during post-impact recovery phase, and 2) a
-post-impact trajectory replanner that adjusts the next
-waypoint with the information from the collision for the
-robot to pass through and generates a polynomial-based
-minimum effort trajectory. The proposed strategy is
-evaluated experimentally with an omni-directional
-impact-resilient wheeled robot. The robot is designed in
-house, and it can perceive collisions with the aid of Hall
-effect sensors embodied between the robot's main chassis
-and a surrounding deflection ring-like structure. "
+abstract: "The paper focuses on collision-inclusive motion planning for impact-resilient mobile robots. We propose a new deformation recovery and replanning strategy to handle collisions that may occur at run-time. Contrary to collision avoidance methods that generate trajectories only in conservative local space or require collision checking that has high computational cost, our method directly generates (local) trajectories with imposing only waypoint constraints. If a collision occurs, our method then estimates the post-impact state and computes from there an intermediate waypoint to recover from the collision. To achieve so, we develop two novel components: 1) a deformation recovery controller that optimizes the robot's states during post-impact recovery phase, and 2) a post-impact trajectory replanner that adjusts the next waypoint with the information from the collision for the robot to pass through and generates a polynomial-based minimum effort trajectory. The proposed strategy is evaluated experimentally with an omni-directional impact-resilient wheeled robot. The robot is designed in house, and it can perceive collisions with the aid of Hall effect sensors embodied between the robot's main chassis and a surrounding deflection ring-like structure."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -62,8 +40,14 @@ featured: false
 #   url: https://twitter.com
 #   icon_pack: fab
 #   icon: twitter
+links:
+ - name: arXiv
+   url: https://arxiv.org/abs/2108.01802
+   icon_pack: 
+   icon: 
 
-url_pdf:
+
+url_pdf: media/zlu2021.pdf
 url_code:
 url_dataset:
 url_poster:

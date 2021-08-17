@@ -46,7 +46,12 @@ links:
  - name: Paper
    url: publication/arq/
    icon_pack: 
+   icon:
+ - icon_pack:
    icon: 
+   name: Video
+   url: https://youtu.be/45vLtpkYGrI
+ 
 
 # Optional filename of your slides within your event's folder or a URL.
 url_slides: ICRA21_ARQ.pdf

@@ -45,6 +45,11 @@ links:
    url: https://arxiv.org/abs/2108.01338
    icon_pack: 
    icon: 
+ - icon_pack:
+   icon: 
+   name: Video
+   url: https://youtu.be/YMUQs5NXt2o
+
 
 url_pdf: media/zliu2021.pdf
 url_code:

@@ -47,18 +47,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:zliu157@ucr.edu
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/zhichaoliu157
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=YVGT7oEAAAAJ&hl=en
-- icon: github
-  icon_pack: fab
-  link: https://github.com/zhichaoliu0921
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/zhichao-liu-9770241b3/
 - icon: cv
   icon_pack: ai
   link: media/resume.pdf

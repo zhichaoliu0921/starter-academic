@@ -46,9 +46,13 @@ links:
    url: publication/zliu2021iros/
    icon_pack: 
    icon: 
+ - icon_pack:
+   icon: 
+   name: Video
+   url: https://youtu.be/Eekb58Gw8V8
 
 # Optional filename of your slides within your event's folder or a URL.
-url_slides:
+url_slides: IROS21_SoRX.pdf
 
 url_code:
 url_pdf:
